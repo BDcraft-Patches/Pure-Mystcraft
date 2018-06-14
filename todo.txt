@@ -1,0 +1,15 @@
+in hand
+	bookstand
+	lectern
+	ink vial
+
+both
+	book binder
+	ink mixer
+	link modifier
+	
+
+inv
+	ink mixer UI middle is too small
+	book binder buttons are missing
+	writing desk scrollbar clips at bottom and buttons missing
